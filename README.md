@@ -1,0 +1,1 @@
+Scripts used to produce the Usenet and magainze charts in "[OSI Really Did Initiate Open Source](https://openpath.quest/2025/osi-really-did-initiate-open-source/)," shared under the [CRAPL](https://github.com/chadwhitacre/open-source-term/blob/main/CRAPL-LICENSE.txt).
