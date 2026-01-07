@@ -9,4 +9,4 @@ Sketch of my method:
 2. Wrestle into SQLite.
 3. Run full-text search queries suggested by ChatGPT.
 4. Dump to CSV.
-5. Load into [Google Sheets](https://docs.google.com/spreadsheets/d/1DumpVEKxUU9wm6LBoVFIRG63atdw_EubKCNwHq3mvP4/edit?usp=sharing), generate chart, modify colors using Chrome dev tools, add OSI logo in Pixelmator.
+5. Load into [Google Sheets](https://docs.google.com/spreadsheets/d/1DumpVEKxUU9wm6LBoVFIRG63atdw_EubKCNwHq3mvP4/edit?usp=sharing), generate chart, export as PNG, add OSI logo in Pixelmator.
